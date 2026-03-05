@@ -7,7 +7,7 @@ I am an ECE student focused on digital hardware architecture and RTL design. I a
 ### ⚙️ Current Focus & Interdisciplinary Exploration
 * **Currently Building:** Expanding my familiarity with digital logic and actively self-studying **SystemVerilog** to complement my VHDL coursework. 
 * **Looking Forward:** I am researching modern ASIC engineering pipelines, EDA tools, and Agile Hardware Generation. I am particularly interested in how hardware acceleration and High-Level Synthesis (HLS) can be applied to massive data pipelines.
-* **The Biotech Intersection:** Beyond traditional ECE, I have a strong secondary interest in health, longevity, and the future of genomics. I believe the intersection of custom silicon and biological data processing presents a unique opportunity for interdisciplinary creativity and innovation in the coming decades.
+* **Interdisciplinary Interests:** Beyond traditional ECE, I have a strong secondary focus on topics including health, longevity, and the future of genomics. I believe the intersection of custom silicon and biological data processing presents a unique opportunity for interdisciplinary creativity and innovation in the coming decades.
 
 ### 🔬 Project Coursework & Implementations
 * **[Serial UART Transceiver]** - *VHDL*
