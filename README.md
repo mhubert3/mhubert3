@@ -2,7 +2,7 @@
 
 **Computer Engineering Undergraduate @ Johns Hopkins University**
 
-ECE student focused on digital hardware architecture and RTL design. I am actively building my foundation in VHDL and C/C++, with a vision to leverage hardware acceleration to solve complex data bottlenecks.
+ECE student focused on digital hardware architecture and RTL design. I am actively building my foundation in VHDL and C/C++ while learning SystemVerilog, with a vision to leverage hardware acceleration to solve complex data bottlenecks.
 
 ### ⚙️ Current Focus & Exploration
 * **Currently Building:** Expanding my digital logic foundation and self-studying **SystemVerilog**.
