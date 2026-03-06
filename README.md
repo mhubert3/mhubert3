@@ -18,7 +18,7 @@ ECE student focused on digital hardware architecture and RTL design. I am active
   * Simulated a configurable set-associative cache outputting hit/miss and cycle counts from benchmark traces.
 * **Multithreaded Key/Value Store** - *C++*
   * Built an in-memory K/V store utilizing custom message serialization and a multithreaded server with table-level locking.
-* **Big Integers** - *C++* Implemented an arbitrary-precision BigInt class supporting core arithmetic, bitwise operations, and hex/dec conversions.
+* **Big Integers** - *C++* Implemented a BigInt class supporting core arithmetic, bitwise operations, and hex/dec conversions.
 
 ### 📬 Connect with Me
 * **Engineering Portfolio:** [mhubert3.github.io](https://mhubert3.github.io/)
