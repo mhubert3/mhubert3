@@ -2,12 +2,12 @@
 
 **Computer Engineering Undergraduate @ Johns Hopkins University**
 
-ECE student focused on digital hardware architecture and RTL design. I am actively building my foundation in VHDL and C/C++ while learning SystemVerilog, with a vision to leverage hardware acceleration to solve complex data bottlenecks.
+ECE student focused on digital hardware architecture and RTL design. Currently building my foundation in SystemVerilog and C/C++, with the long-term goal of developing ASICs for edge AI applications.
 
 ### ⚙️ Current Focus & Exploration
 * **Currently Building:** Expanding my digital logic foundation and self-studying **SystemVerilog**.
-* **Looking Forward:** Researching ASIC engineering pipelines, EDA tools, and High-Level Synthesis (HLS) for massive data pipelines.
-* **Interdisciplinary Interests:** Exploring the intersection of custom silicon and the future of health optimization, with a specific regard for genomics. I believe biological data processing will demand unique hardware innovation.
+* **Looking Forward:** Learning ASIC engineering workflows, EDA tools, RTL principles, and exploring a bit of High-Level Synthesis (HLS).
+* **Interdisciplinary Interests:** Exploring the intersection of custom silicon and AI deployed at the edge. Developing interest in applications related to genomics and robotics.
 
 ### 🔬 Project Coursework & Implementations
 * **Serial UART Transceiver** - *VHDL*
