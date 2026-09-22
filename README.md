@@ -7,7 +7,7 @@ ECE student focused on digital hardware architecture and RTL design. Currently b
 ### ⚙️ Current Focus & Exploration
 * **Currently Building:** Expanding my digital logic foundation and self-studying **SystemVerilog**.
 * **Looking Forward:** Learning ASIC engineering workflows, EDA tools, RTL principles, and exploring a bit of High-Level Synthesis (HLS).
-* **Interdisciplinary Interests:** Exploring the intersection of custom silicon and AI deployed at the edge. Developing interest in applications related to genomics and robotics.
+* **Interdisciplinary Interests:** Exploring the intersection of custom silicon and AI deployed at the edge. Special interest in applications related to genomics and robotics.
 
 ### 🔬 Project Coursework & Implementations
 * **Serial UART Transceiver** - *VHDL*
